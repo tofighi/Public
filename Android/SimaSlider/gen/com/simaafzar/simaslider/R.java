@@ -77,9 +77,8 @@ public final class R {
         public static final int main=0x7f090000;
     }
     public static final class string {
-        public static final int action_settings=0x7f070002;
+        public static final int action_settings=0x7f070001;
         public static final int app_name=0x7f070000;
-        public static final int hello_world=0x7f070001;
     }
     public static final class style {
         /** 
