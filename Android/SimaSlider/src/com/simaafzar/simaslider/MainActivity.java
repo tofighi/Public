@@ -26,7 +26,13 @@ public class MainActivity extends Activity {
 		Resources r = getResources();
 
 		SimpleCardStackAdapter adapter = new SimpleCardStackAdapter(this);
-
+		
+		String title, desc;
+		for (int i = 1; i <= 100; i++) {
+			title = "Title " + i;
+			desc = "Description " + i;
+			adapter.add(new CardModel(title, desc, r.getDrawable(R.drawable.picture1)));
+		}
 		adapter.add(new CardModel("Title1", "Description goes here", r.getDrawable(R.drawable.picture1)));
 		adapter.add(new CardModel("Title2", "Description goes here", r.getDrawable(R.drawable.picture2)));
 		adapter.add(new CardModel("Title3", "Description goes here", r.getDrawable(R.drawable.picture3)));

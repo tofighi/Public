@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimaWeb</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jabberwocky">Jabberwocky</string>
+    <string name="title_activity_nasa">Nasa</string>
+    <string name="title_activity_roundball">Roundball</string>
+    <string name="title_wikipedia_button">WikiPedia</string>
+    <string name="title_displaypicture_button">Picture</string>
+
+</resources>
