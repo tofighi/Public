@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Text GPS Location!</string>
+    <string name="message_sent">Message Sent!</string>
+    <string name="about_jian">Jian Ghomeshi is a Canadian broadcaster, writer and musician born in London, England, and raised in Thornhill, Ontario. From 1990 to 2000 he was a member of the Thornhill-based folk-pop band Moxy Früvous, as a vocalist and drummer. Jian Ghomeshi is a Canadian broadcaster, writer and musician born in London, England, and raised in Thornhill, Ontario. From 1990 to 2000 he was a member of the Thornhill-based folk-pop band Moxy Früvous, as a vocalist and drummer.
+        Jian Ghomeshi is a Canadian broadcaster, writer and musician born in London, England, and raised in Thornhill, Ontario. From 1990 to 2000 he was a member of the Thornhill-based folk-pop band Moxy Früvous, as a vocalist and drummer.(Wikipedia)</string>
+	<string name="name_label">Name:</string>
+</resources>
