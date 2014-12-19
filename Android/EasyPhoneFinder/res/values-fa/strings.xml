@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تلفن‌یاب</string>
+    <string name="about_app">برنامه‌ای برای یافتن تلفن</string>
+    <string name="name_label">نام:</string>
+    <string name="message_sent">پیام ارسال شد!</string>
+    
+</resources>
