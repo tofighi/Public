@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">پیامک اطلاعات GPS</string>
-    <string name="about_jian">ژیان قمیشی (متولد ۱۹ خرداد ۱۳۴۶ - لندن – انگلستان)، مجری رادیو و تلویزیون، نویسنده، موسیقی‌دان و برنامه‌ساز ایرانی تبارِ کانادایی‌ست و در شهر تورنهیل، در استان انتاریو بزرگ شده‌است.</string>
-    <string name="name_label">نام:</string>
-    <string name="message_sent">پیام ارسال شد!</string>
-    
-</resources>
