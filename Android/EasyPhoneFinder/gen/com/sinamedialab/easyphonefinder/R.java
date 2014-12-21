@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.simaafzar.easyphonefinder;
+package com.sinamedialab.easyphonefinder;
 
 public final class R {
     public static final class attr {

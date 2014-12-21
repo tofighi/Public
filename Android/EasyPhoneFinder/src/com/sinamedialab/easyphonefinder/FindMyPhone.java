@@ -1,7 +1,7 @@
-package com.simaafzar.easyphonefinder;
+package com.sinamedialab.easyphonefinder;
 
-import com.simaafzar.easyphonefinder.R;
 
+import android.annotation.SuppressLint;
 import android.app.Service;
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -14,6 +14,7 @@ import android.telephony.SmsMessage;
 import android.util.Log;
 import android.widget.Toast;
 
+@SuppressLint("DefaultLocale") 
 public class FindMyPhone extends Service{
 	 
 	private static String TAG = "FindMyPhone Service";
@@ -40,7 +41,7 @@ public class FindMyPhone extends Service{
 	
 	private void registerReceivers() {
 		registerReceiver(LocReceiver,
-		        new IntentFilter("com.simaafzar.easyphonefinder.ACTION_LOCATION"));
+		        new IntentFilter("com.sinamedialab.easyphonefinder.ACTION_LOCATION"));
 		registerReceiver(SMSReceiver,
 		        new IntentFilter("android.provider.Telephony.SMS_RECEIVED"));
 		Log.e(TAG, "SMS and Location receivers are registered");

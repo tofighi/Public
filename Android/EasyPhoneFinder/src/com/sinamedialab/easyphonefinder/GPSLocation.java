@@ -1,4 +1,4 @@
-package com.simaafzar.easyphonefinder;
+package com.sinamedialab.easyphonefinder;
 
 import android.content.Context;
 import android.content.Intent;
@@ -63,7 +63,7 @@ public class GPSLocation implements LocationListener {
 				latitude = location.getLatitude();
 				longitude = location.getLongitude();
 				Intent intent = new Intent(
-						"com.simaafzar.easyphonefinder.ACTION_LOCATION");
+						"com.sinamedialab.easyphonefinder.ACTION_LOCATION");
 				myContext.sendBroadcast(intent);
 				Log.i(GEO_LOCATION, LATITUDE + latitude + "," + LONGITUDE + longitude);	
 		}

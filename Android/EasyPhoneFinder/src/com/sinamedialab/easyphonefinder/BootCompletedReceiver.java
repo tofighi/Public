@@ -1,4 +1,4 @@
-package com.simaafzar.easyphonefinder;
+package com.sinamedialab.easyphonefinder;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -20,4 +20,5 @@ public class BootCompletedReceiver extends BroadcastReceiver {
         }
         
     }
+
 }
