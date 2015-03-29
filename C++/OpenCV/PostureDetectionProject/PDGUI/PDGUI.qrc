@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>resources/icons/exit.png</file>
+        <file>resources/icons/options.png</file>
+        <file>resources/icons/background.png</file>
+        <file>resources/icons/fullscreen.png</file>
+        <file>resources/icons/hand.png</file>
+        <file>resources/icons/vsign-64x64.png</file>
+        <file>resources/icons/webcam.png</file>
+        <file>resources/icons/film.png</file>
+        <file>resources/icons/folder_explore.png</file>
+        <file>resources/icons/info.png</file>
+        <file>resources/icons/vsign.ico</file>
+        <file>resources/icons/vsign.png</file>
+        <file>resources/icons/vsign.icns</file>
+        <file>resources/icons/learn.png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/images/colorbar.png</file>
+    </qresource>
+</RCC>
