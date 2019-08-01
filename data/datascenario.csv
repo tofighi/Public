@@ -1,4 +1,4 @@
-﻿ID,operational period,extent of damage,disaster type,day of request,hour of request,possibility of  similar disaster,availability of resources,crew mobilization,work backlog,distance,recommended
+﻿ID,OperPer,ExtDamage,Disaster,DateRequest,HourRequest,PossibilitySame,Availability,CrewMobilization,WorkBacklog,Distance,Recommended
 A,0.952380952,1,1,3,3,3,4,4,4,0.169230769,1
 A,0.952380952,1,1,3,3,3,4,4,4,0.169230769,1
 A,0.952380952,1,1,3,3,3,4,4,4,0.169230769,1
